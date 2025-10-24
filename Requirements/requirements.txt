@@ -1,0 +1,21 @@
+Python 3.8 or higher
+
+Google Chrome browser (installed)
+
+ChromeDriver (matching Chrome version)
+
+MongoDB Atlas account and cluster
+
+energy.env file with database credentials
+
+Required libraries:
+
+pandas
+
+pymongo
+
+python-dotenv
+
+tqdm
+
+selenium

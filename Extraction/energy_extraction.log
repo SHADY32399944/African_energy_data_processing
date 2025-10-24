@@ -1,0 +1,28 @@
+2025-10-23 07:38:13,187 - INFO - ====== WebDriver manager ======
+2025-10-23 07:38:14,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:15,873 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:16,773 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-23 07:38:18,272 - INFO - \u2705 Chrome WebDriver initialized successfully.
+2025-10-23 07:38:22,714 - INFO - ====== WebDriver manager ======
+2025-10-23 07:38:24,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:25,283 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:26,009 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-23 07:38:27,512 - INFO - \u2705 Chrome WebDriver initialized successfully.
+2025-10-23 07:38:28,971 - ERROR - \u274c Error during scraping: Message: 
+
+2025-10-23 07:38:37,861 - ERROR - \u274c Error during scraping: Message: 
+
+2025-10-23 07:38:56,360 - INFO - ====== WebDriver manager ======
+2025-10-23 07:38:58,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:59,065 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:38:59,838 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-23 07:39:01,567 - INFO - \u2705 Chrome WebDriver initialized successfully.
+2025-10-23 07:39:12,124 - ERROR - \u274c Error during scraping: Message: 
+
+2025-10-23 07:41:42,886 - INFO - ====== WebDriver manager ======
+2025-10-23 07:41:44,506 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:41:45,478 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-23 07:41:46,406 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\141.0.7390.122\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-23 07:41:48,048 - INFO - Chrome WebDriver initialized successfully.
+2025-10-23 07:42:12,408 - ERROR - Error extracting country links: Message: 
+

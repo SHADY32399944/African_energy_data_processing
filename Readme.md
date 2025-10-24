@@ -94,6 +94,3 @@ LuxDev Internship Project – African Energy Data Initiative
 ```
 
 ---
-
-Would you like me to include a short **“License”** or **“Acknowledgments”** section at the end for professional completeness?
-```

@@ -1,8 +1,3 @@
-Here’s a clean, ready-to-use **`README.md`** file for your *African Energy Data Extraction* project:
-
----
-
-````markdown
 # African Energy Data Extraction Project
 
 ## Overview
@@ -89,11 +84,5 @@ Each record in the MongoDB collection follows this structure:
 ## Author
 
 Developed by **Shadrack Muchemi Karimi**
-LuxDev Internship Project – African Energy Data Initiative
-
-```
 
 ---
-
-Would you like me to include a short **“License”** or **“Acknowledgments”** section at the end for professional completeness?
-```
